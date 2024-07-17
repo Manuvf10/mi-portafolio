@@ -3,7 +3,7 @@ import styled from 'styled-components';
 import { motion } from 'framer-motion';
 
 const HeroSection = styled.section`
-  background: url('https://via.placeholder.com/1200x400') no-repeat center center/cover;
+  background: url('/public/assets/background.jpg') no-repeat center center/cover;
   color: #fff;
   height: 100vh;
   display: flex;
